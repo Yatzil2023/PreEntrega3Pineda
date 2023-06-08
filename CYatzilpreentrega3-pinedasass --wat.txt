@@ -1,0 +1,2 @@
+C:\Yatzil\preentrega3-pineda>sass --watch SASS/style.scss css/style.css
+Sass is watching for changes. Press Ctrl-C to stop.

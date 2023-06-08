@@ -1,0 +1,16 @@
+/* The element to apply the animation to */
+body {
+    background-color: pink;
+    animation-name: fondopagina;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+
+  /* The animation code */
+@keyframes fondopagina {
+    0%   {background-color:pink;}
+    33%  {background-color:purple;}
+    66%  {background-color:blue; }
+    100%  {background-color:pink;}    
+  }
+  
